@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jok1991 aka Johan
-- 👀 I’m interested in blockchain technology and crypto assets
+- 👀 I’m interested in metals and mining, blockchain and crypto assets
 - 🌱 I’m currently learning python, C & JavaScript
-- 💞️ I’m looking to collaborate on crypto projects
+- 💞️ I’m looking to collaborate on metals and mining projects, ESG (environmental tracking projects) + crypto projects
 - 📫 How to reach me johanolipitz13@yahoo.com
 
 <!---
